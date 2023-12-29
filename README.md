@@ -1,4 +1,4 @@
-# LogicProScripter
+# Logic Pro Script Editor
 
 This repository contains code examples and standalone scripts  for Logic Pro's Scripter MIDI plugin. This repository is offered as a free supplement to [The Complete Guide to Logic Pro's Scripter by Philip Regan](http://books.apple.com/us/book/id1611546793).
 
