@@ -1,6 +1,6 @@
 /******************************************************************************
 Name: simple transposition
-Author(s): Philip Regan
+Author(s): Rumen Lishkov
 Purpose:
 * Intended for use with chord progressions, inverts all chords based on a 
 fulcrum pitch. Only works on a simple move of a note by one octave.
@@ -20,7 +20,7 @@ x Warranty
 Conditions
 ! License and copyright notice
 
-Copyright Philip Regan and Pilcrow Records
+Copyright Rumen Lishkov and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

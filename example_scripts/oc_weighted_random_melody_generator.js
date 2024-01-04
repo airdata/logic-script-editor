@@ -1,6 +1,6 @@
     /******************************************************************************
     Name: Weighted Random Melody Generator 
-    Author(s): Philip Regan
+    Author(s): Rumen Lishkov
     Purpose: 
     * Creates random melodies based on weighted selections of pitches, note and 
     rest lengths
@@ -49,7 +49,7 @@
     Conditions
     ! License and copyright notice
 
-    Copyright Philip Regan and Pilcrow Records
+    Copyright Rumen Lishkov and Pilcrow Records
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the

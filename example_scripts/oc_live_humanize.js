@@ -1,6 +1,6 @@
 /******************************************************************************
 Name: Live Humanize
-Author(s): Philip Regan
+Author(s): Rumen Lishkov
 Purpose: Recreates the Humanize MIDI transformation found in the piano roll. By
 having this functionality in Scripter, that means it can be used during live 
 play.
@@ -27,7 +27,7 @@ x Warranty
 Conditions
 ! License and copyright notice
 
-Copyright Philip Regan and Pilcrow Records
+Copyright Rumen Lishkov and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

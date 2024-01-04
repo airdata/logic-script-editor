@@ -1,6 +1,6 @@
 /******************************************************************************
 Name: Transposition to Range
-Author(s): Philip Regan
+Author(s): Rumen Lishkov
 Purpose:
 * A simple convenience plug-in which transposes all notes based on a 
 pair of fulcrum pitches. This can be accomplished with the Simple Transposition
@@ -23,7 +23,7 @@ x Warranty
 Conditions
 ! License and copyright notice
 
-Copyright Philip Regan and Pilcrow Records
+Copyright Rumen Lishkov and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

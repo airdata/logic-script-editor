@@ -12,6 +12,7 @@ Files with the "oc" prefix are complete scripts which can...
 If you used any of these scripts to make your music, please let me know! 
 
 Pull requests are welcome.
+![Tux, the Linux mascot](/docs/scripter.jpg)
 
 Other Scripter repos found on Github (licenses for reuse may vary):
 

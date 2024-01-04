@@ -1,6 +1,6 @@
 /******************************************************************************
 Name: Live Chord Generator
-Author(s): Philip Regan
+Author(s): Rumen Lishkov
 Purpose: 
 * Creates diatonic chords based on a single root note within a particular scale 
 and modifies them based on specific musical needs
@@ -26,7 +26,7 @@ x Warranty
 Conditions
 ! License and copyright notice
 
-Copyright Philip Regan and Pilcrow Records
+Copyright Rumen Lishkov and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

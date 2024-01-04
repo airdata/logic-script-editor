@@ -1,6 +1,6 @@
 /******************************************************************************
 Name: transpose by pitch
-Author(s): Philip Regan
+Author(s): Rumen Lishkov
 Purpose:
 * The Reverse Pitch MIDI transformation will transpose a pitch based on the 
 number of half-steps from a fulcrum pitch. This can lead to non-diatonic pitches
@@ -53,7 +53,7 @@ x Warranty
 Conditions
 ! License and copyright notice
 
-Copyright Philip Regan and Pilcrow Records
+Copyright Rumen Lishkov and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

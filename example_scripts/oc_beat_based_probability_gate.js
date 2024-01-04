@@ -1,6 +1,6 @@
 /******************************************************************************
 Name: Beat Based Probability Gate
-Author(s): Philip Regan
+Author(s): Rumen Lishkov
 Purpose: 
 * Changes probability of an event being sent based on the beat, like whether 
 the note should play on a strong or weak beat.
@@ -34,7 +34,7 @@ x Warranty
 Conditions
 ! License and copyright notice
 
-Copyright Philip Regan and Pilcrow Records
+Copyright Rumen Lishkov and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

@@ -1,6 +1,6 @@
 /******************************************************************************
 Name: Sending Custom Messages Across Scripts
-Author(s): Philip Regan
+Author(s): Rumen Lishkov
 Purpose: 
 * This script documents how to take advantage of the undefined control bytes in 
 the MIDI Spec with the ControlChange object.
@@ -54,7 +54,7 @@ x Warranty
 Conditions
 ! License and copyright notice
 
-Copyright Philip Regan and Pilcrow Records
+Copyright Rumen Lishkov and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

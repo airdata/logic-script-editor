@@ -1,6 +1,6 @@
 /******************************************************************************
 Name: Scripter ADSR
-Author(s): Philip Regan
+Author(s): Rumen Lishkov
 Purpose: 
 * Recreates the ADSR envelope in the Modulator MIDI Effect Plug-In. The 
 envelope outputs a number between 0.0-1.0, which can be used as a multiplier
@@ -32,7 +32,7 @@ x Warranty
 Conditions
 ! License and copyright notice
 
-Copyright Philip Regan and Pilcrow Records
+Copyright Rumen Lishkov and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

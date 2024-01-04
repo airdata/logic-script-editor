@@ -1,6 +1,6 @@
 /******************************************************************************
 Name: Velocity Limiter
-Author(s): Philip Regan
+Author(s): Rumen Lishkov
 Purpose:
 * Live versions of the `Fixed Velocity' and `Velocity Limiter' MIDI Transforms
 
@@ -19,7 +19,7 @@ x Warranty
 Conditions
 ! License and copyright notice
 
-Copyright Philip Regan and Pilcrow Records
+Copyright Rumen Lishkov and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
