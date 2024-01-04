@@ -39,7 +39,7 @@ Conditions
 
 MIT License
 
-Copyright (c) 2022 Philip Regan and Pilcrow Records
+Copyright (c) 2024 Philip Regan and Pilcrow Records
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
